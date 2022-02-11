@@ -1,0 +1,3 @@
+[submodule "RGBA"]
+	path = RGBA
+	url = git@github.com:Dowairu/RGBA
